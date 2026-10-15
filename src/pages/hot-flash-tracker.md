@@ -10,7 +10,7 @@ When a hot flash starts, there is no time for a form. In Tansy you press one but
 - **A count for each day**, with the night ones kept apart from the daytime ones.
 - **The hours they gather around**, on a simple chart of the day.
 - **How strong it felt**, if you want to add it later. Leaving it out is fine.
-- **A widget** with today's count and the same button, on the Home Screen or the Lock Screen.
+- **Widgets:** today's count and the same button on the Home Screen, and today's count on the Lock Screen.
 
 ## Next to the rest of your day
 Hot flashes sit beside the rest of your diary: sleep quality, mood, the days of your period, and the dates you started or changed HRT. If you use Apple Health, each hot flash can be written to Health, and with Tansy Pro your sleep and heart-rate variability can be drawn next to them.
